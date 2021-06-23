@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/titan/static/css/main.4e076258.chunk.css",
+    "main.css": "/titan/static/css/main.9dd33adf.chunk.css",
     "main.js": "/titan/static/js/main.f45fdaf0.chunk.js",
     "main.js.map": "/titan/static/js/main.f45fdaf0.chunk.js.map",
     "runtime-main.js": "/titan/static/js/runtime-main.aad9a5e5.js",
@@ -10,14 +10,14 @@
     "static/js/3.8bc5e8eb.chunk.js": "/titan/static/js/3.8bc5e8eb.chunk.js",
     "static/js/3.8bc5e8eb.chunk.js.map": "/titan/static/js/3.8bc5e8eb.chunk.js.map",
     "index.html": "/titan/index.html",
-    "static/css/main.4e076258.chunk.css.map": "/titan/static/css/main.4e076258.chunk.css.map",
+    "static/css/main.9dd33adf.chunk.css.map": "/titan/static/css/main.9dd33adf.chunk.css.map",
     "static/js/2.150a49c3.chunk.js.LICENSE.txt": "/titan/static/js/2.150a49c3.chunk.js.LICENSE.txt",
     "static/media/App.css": "/titan/static/media/ts.f995d2d7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.aad9a5e5.js",
     "static/js/2.150a49c3.chunk.js",
-    "static/css/main.4e076258.chunk.css",
+    "static/css/main.9dd33adf.chunk.css",
     "static/js/main.f45fdaf0.chunk.js"
   ]
 }
